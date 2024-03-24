@@ -1,0 +1,16 @@
+.error {
+    color: red;
+}
+
+.content-wrapper {
+    background-image: url('../css/img/bg-menu.png');
+    background-size: cover;
+}
+
+.maxdex {
+    white-space: nowrap; 
+    width: 50px; 
+    overflow: hidden;
+    text-overflow: ellipsis; 
+    border: 1px solid #000000;
+}

@@ -1,0 +1,8 @@
+.error {
+    color: red;
+}
+
+.content-wrapper {
+    background-image: url('../css/img/bg-menu.png');
+    background-size: cover;
+}

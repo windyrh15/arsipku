@@ -1,0 +1,10 @@
+.login-page {
+    /* background-color: #36454F; */
+    background-image: url('../css/img/bg142.png');
+    background-size: cover;
+}
+
+.login-logo {
+    cursor: context-menu;
+    color: #000;
+}
